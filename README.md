@@ -9,7 +9,7 @@ Output ScreenShots :
 
 <br>![Screenshot 2023-05-10 113023](https://github.com/AjayRaut1/Stock-Market-Predictor-ML-Project/assets/76767324/93620907-dde2-449e-9ec9-ba19640603d2)
 
-<br>![Screenshot 2023-05-10 120405](https://github.com/AjayRaut1/Stock-Market-Predictor-ML-Project/assets/76767324/35d8334c-fcb0-49b7-bcd3-4b2ecad0f464)
+
 
 <br>![Screenshot 2023-05-10 122331](https://github.com/AjayRaut1/Stock-Market-Predictor-ML-Project/assets/76767324/c8a88dfa-d979-4214-a1a1-7096bd60f0e9)
 
